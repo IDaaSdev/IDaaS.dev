@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: IDaaS
+subtitle: 'Identity as a Service'
+description: 'Identity as a Service (IDaaS) is cloud-based identity and access management (IAM) service operated by a third-party provider.'
+keywords: 'IDaaS, Zero Trust, Identity as a Service, IAM, Access Portal, Identity Aware, Auth, SSO, OAuth 2.0'
+author: Ethan Xia
 language: en
-timezone: ''
+timezone: 'America/Los_Angeles'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://idaas.dev
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
